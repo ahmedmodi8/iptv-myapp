@@ -47,7 +47,9 @@ https://iptv-org.github.io/iptv/index.category.m3u
 ```
 
 Same thing, but split up into separate files:
-
+<!-- 
+ <tr><td>Kids</td><td align="right">241</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
+-->
 <!-- prettier-ignore -->
 <table>
   <thead>
@@ -55,7 +57,6 @@ Same thing, but split up into separate files:
   </thead>
   <tbody>
     <tr><td>Animation</td><td align="right">53</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
-    <tr><td>Arabic</td><td align="right">392</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/arabic.m3u</code></td></tr>
     <tr><td>Auto</td><td align="right">17</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
     <tr><td>Business</td><td align="right">65</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>Classic</td><td align="right">50</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
@@ -67,7 +68,7 @@ Same thing, but split up into separate files:
     <tr><td>Entertainment</td><td align="right">555</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/entertainment.m3u</code></td></tr>
     <tr><td>Family</td><td align="right">56</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/family.m3u</code></td></tr>
     <tr><td>General</td><td align="right">2294</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
-    <tr><td>Kids</td><td align="right">241</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
+<tr><td><img src="https://thumbs.dreamstime.com/b/child-icon-colored-boy-girl-children-symbol-your-design-vector-illustration-154620297.jpg" alt="Kids Icon" style="vertical-align: middle; margin-right: 5px;">Kids</td><td align="right">241</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
     <tr><td>Legislative</td><td align="right">189</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/legislative.m3u</code></td></tr>
     <tr><td>Lifestyle</td><td align="right">92</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/lifestyle.m3u</code></td></tr>
     <tr><td>Movies</td><td align="right">330</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/movies.m3u</code></td></tr>
