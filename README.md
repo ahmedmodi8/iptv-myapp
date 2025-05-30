@@ -16,6 +16,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 - 🛠 [Contribution](#contribution)
 - ⚖ [Legal](#legal)
 - © [License](#license)
+-Mod-adev
 
 ## How to use?
 
