@@ -5,6 +5,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 ## Table of contents
 
 - 🚀 [How to use?](#how-to-use)
+
 - 📺 [Playlists](#playlists)
 - 🗓 [EPG](#epg)
 - 🗄 [Database](#database)
