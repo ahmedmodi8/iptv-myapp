@@ -64,7 +64,7 @@ Same thing, but split up into separate files:
 
     <tr><td>Premium</td><td align="right">16</td><td nowrap><code>https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/bein.m3u</code></td></tr>
 
-    <tr><td>All</td><td align="right">18</td><td nowrap><code>https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/5jkavP.m3u</code></td></tr>
+    <tr><td>📺All</td><td align="right">18</td><td nowrap><code>https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/5jkavP.m3u</code></td></tr>
 
     <tr><td>🤑Business</td><td align="right">65</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>🍿Classic</td><td align="right">50</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
