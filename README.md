@@ -62,7 +62,7 @@ Same thing, but split up into separate files:
 
     <tr><td>Auto</td><td align="right">17</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
 
-    <tr><td>Premium</td><td align="right">17</td><td nowrap><code>https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/bein.m3u</code></td></tr>
+    <tr><td>Premium</td><td align="right">16</td><td nowrap><code>https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/bein.m3u</code></td></tr>
 
 
     <tr><td>🤑Business</td><td align="right">65</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
