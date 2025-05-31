@@ -90,6 +90,7 @@ Same thing, but split up into separate files:
   <tr><td>🔞 XXX</td><td align="right">0</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/xxx.m3u</code></td></tr>
   <tr><td>❔ Undefined</td><td align="right">3915</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/undefined.m3u</code></td></tr>
 </tbody>
+
 </table>
 
 </details>
