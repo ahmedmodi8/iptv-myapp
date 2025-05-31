@@ -59,7 +59,12 @@ Same thing, but split up into separate files:
   </thead>
   <tbody>
     <tr><td>🤖Animation</td><td align="right">53</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
+
     <tr><td>Auto</td><td align="right">17</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
+
+    <tr><td>Premium</td><td align="right">17</td><td nowrap><code>https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/bein.m3u</code></td></tr>
+
+
     <tr><td>🤑Business</td><td align="right">65</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>🍿Classic</td><td align="right">50</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
     <tr><td>🎭Comedy</td><td align="right">82</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/comedy.m3u</code></td></tr>
