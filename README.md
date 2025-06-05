@@ -898,3 +898,34 @@ Same thing, but split up into separate files:
 
 </details>
 
+
+### Grouped by movie
+
+Playlists in which channels are grouped by the movie for which they are broadcasted.
+
+<details>
+<summary>Expand</summary>
+<br>
+
+```
+https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/movies_playlist.m3u
+```
+
+Same thing, but split up into separate files:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+<tr><th align="left">🚩movie</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="left">movie</td><td align="right">474</td><td align="left" nowrap><code>https://raw.githubusercontent.com/ahmedmodi8/iptv-myapp/main/movies_playlist.m3u</code></td></tr>
+
+  </tbody>
+</table>
+
+</details>
+
+
+
+
